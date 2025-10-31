@@ -1,0 +1,5 @@
+File: 001.png (1/5)	Cover_HistSim=0.9987	Cover_EntropyDiff=0.1029	Cover_CorrCoef=0.9581	Secret_PSNR=30.66	Secret_SSIM=0.9748	Final_loss=0.0034	Epochs=558
+File: 002.png (2/5)	Cover_HistSim=0.7172	Cover_EntropyDiff=2.7366	Cover_CorrCoef=0.9658	Secret_PSNR=46.03	Secret_SSIM=0.9927	Final_loss=0.0002	Epochs=1929
+File: 003.png (3/5)	Cover_HistSim=0.7750	Cover_EntropyDiff=2.1175	Cover_CorrCoef=0.9875	Secret_PSNR=52.22	Secret_SSIM=0.9963	Final_loss=0.0001	Epochs=1477
+File: 004.png (4/5)	Cover_HistSim=0.7121	Cover_EntropyDiff=2.4641	Cover_CorrCoef=0.9773	Secret_PSNR=46.02	Secret_SSIM=0.9936	Final_loss=0.0002	Epochs=2264
+File: 005.png (5/5)	Cover_HistSim=0.7436	Cover_EntropyDiff=2.5563	Cover_CorrCoef=0.9755	Secret_PSNR=48.89	Secret_SSIM=0.9940	Final_loss=0.0001	Epochs=1922
